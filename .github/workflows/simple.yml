@@ -37,4 +37,4 @@ jobs:
 
       # List all files
       - name: List all files
-        run: ls -la "*"
+        run: ls -la *
